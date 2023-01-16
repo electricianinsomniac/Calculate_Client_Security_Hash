@@ -4,5 +4,7 @@ Robotic Process automation (RPA) in UIPath. The automation will need to process 
 ## Introduction
 ![image](https://user-images.githubusercontent.com/110273737/212594258-6c622d62-f7a9-4277-9a82-85609b51f040.png)
 
+you can follow step by step to complete the excercise by read [Process Design Document](Calculate Client Security Hash - Process Design Document ().pdf)
+
 ## Background
 
