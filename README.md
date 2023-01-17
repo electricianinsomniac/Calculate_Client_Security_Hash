@@ -6,7 +6,8 @@ Robotic Process automation (RPA) in UIPath. The automation will need to process 
 
 you can follow step by step to complete the excercise by read [Process Design Document](https://github.com/electricianinsomniac/Calculate_Client_Security_Hash/blob/main/Calculate%20Client%20Security%20Hash%20-%202021.10%20Complete%20Exercise%20Walkthrough%20().pdf) from UiPath
 
-## Background
+## Overview
+The following process has been selected for RPA as part of the larger project initiative conducted within ACME Systems Inc, the Finance and Accounting department.
 
 ## Result
 You can see the result for this excercie in [Calculate_Client_Security_Hash]
